@@ -5,4 +5,5 @@ print("Add:", x+y)
 print("Sub:", x-y)
 print("Mul:", x*y)
 print("Div:", x/y)
+print("pow:", x**y)
 
