@@ -11,7 +11,8 @@ print("Mul:", x*y)
 print("Div:", x/y)
 print("pow:", x**y)
 
-print("Bitwise OR", x|y)
+print("Bitwise OR:", x|y)
+print("Bitwise AND:", x&y)
 
 print("Fac of y:", math.factorial(y))
 
