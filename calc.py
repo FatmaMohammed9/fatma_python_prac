@@ -13,6 +13,7 @@ print("pow:", x**y)
 
 print("Bitwise OR:", x|y)
 print("Bitwise AND:", x&y)
+print("Bitwise XOR:", x^y)
 
 print("Fac of y:", math.factorial(y))
 
