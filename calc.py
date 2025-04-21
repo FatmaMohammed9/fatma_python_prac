@@ -1,5 +1,5 @@
 import math
-x= 10
+x= -10
 y= 5
 
 print("Absolute of x:", abs(x))
@@ -10,6 +10,8 @@ print("Sub:", x-y)
 print("Mul:", x*y)
 print("Div:", x/y)
 print("pow:", x**y)
+
+print("Bitwise OR", x|y)
 
 print("Fac of y:", math.factorial(y))
 
